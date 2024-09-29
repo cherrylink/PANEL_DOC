@@ -1,13 +1,13 @@
 ## 应用概述
 
-Fclash 是在 Android 平台上的第三方开源代理客户端软件，支持 VMess 和 Shadowsocks 协议等众多协议。
+Flclash 是在 Android 平台上的第三方开源代理客户端软件，支持 VMess 和 Shadowsocks 协议等众多协议。
 
 ## 应用下载
 - ...
 
 以下是各平台该应用的下载地址。
 
-- Android：[Fclash](/FlClash-0.8.57-android-arm64-v8a.apk)
+- Android：[Flclash](/FlClash-0.8.57-android-arm64-v8a.apk)
 
 ## 获取订阅
 进入首页
@@ -18,11 +18,11 @@ Fclash 是在 Android 平台上的第三方开源代理客户端软件，支持 
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
-## 配置 Fclash
+## 配置 Flclash
 
-打开 Fclash 点击左上角的菜单图标打开侧边栏，随后点击 **订阅设置**。
+打开 Fclash 点击配置，点击+号，点击URL，输入Clash订阅链接，点击提交。
 
-![1](https://i.loli.net/2019/02/13/5c62fd8327c0e.png ':size=600')
+![1](/images/flclash.png ':size=600')
 
 点击右上角的加号按钮，在新页面的备注中填写本站名称，地址输入框中粘贴上方 **[获取订阅](#获取订阅)** 中的订阅链接并点击右上角的 **√**。
 
