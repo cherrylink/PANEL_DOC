@@ -14,7 +14,7 @@ Fclash 是在 Android 平台上的第三方开源代理客户端软件，支持 
 此处将显示您的订阅链接，请注意为登录状态
 点击复制 Clash 订阅链接
 
-![1](/images/sub.png ':size=600')
+![1](SSpanel/Android/images/sub.png ':size=600')
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
