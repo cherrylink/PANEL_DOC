@@ -1,25 +1,26 @@
 ## 应用概述
 
-V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsocks 协议。
+Fclash 是在 Android 平台上的第三方开源代理客户端软件，支持 VMess 和 Shadowsocks 协议等众多协议。
 
 ## 应用下载
+- ...
 
 以下是各平台该应用的下载地址。
 
-- Android：[V2rayNG](https://github.com/2dust/v2rayNG/releases)
-- ...
+- Android：[Fclash](/FlClash-0.8.57-android-arm64-v8a.apk)
 
 ## 获取订阅
+进入首页
+此处将显示您的订阅链接，请注意为登录状态
+点击复制 Clash 订阅链接
 
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=v2ray ':include :type=markdown')
+![1](/images/sub.png ':size=600')
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
-## 配置 V2rayNG
+## 配置 Fclash
 
-打开 V2rayNG 点击左上角的菜单图标打开侧边栏，随后点击 **订阅设置**。
+打开 Fclash 点击左上角的菜单图标打开侧边栏，随后点击 **订阅设置**。
 
 ![1](https://i.loli.net/2019/02/13/5c62fd8327c0e.png ':size=600')
 
