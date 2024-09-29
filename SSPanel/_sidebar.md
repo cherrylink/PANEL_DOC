@@ -1,11 +1,6 @@
 * Android
 
-  * [在 V2rayNG 上配置](Android/V2RayNG.md)
-  * [在 BifrostV 上配置](Android/BifrostV.md)
-  * [在 Surfboard 上配置](Android/Surfboard.md)
-  * [在 Shadowsocks 上配置](Android/Shadowsocks.md)
-  * [在 ShadowsocksD 上配置](Android/ShadowsocksD.md)
-  * [在 ShadowsocksR 上配置](Android/ShadowsocksR.md)
+  * [在 Flclash 上配置](Android/Flclash.md)
 
 * iOS
 
@@ -17,15 +12,9 @@
   * [在 QuantumultX 上配置](iOS/QuantumultX.md)
   * [在 Shadowrocket 上配置](iOS/Shadowrocket.md)
 
-* Windows
+* WindowsVerge
 
-  * [在 Netch 上配置](Windows/Netch.md)
-  * [在 SSTap 上配置](Windows/SSTap.md)
-  * [在 V2RayN 上配置](Windows/V2RayN.md)
-  * [在 Shadowsocks 上配置](Windows/Shadowsocks.md)
-  * [在 ShadowsocksD 上配置](Windows/ShadowsocksD.md)
-  * [在 ShadowsocksR 上配置](Windows/ShadowsocksR.md)
-  * [在 Clash for Windows 上配置](Windows/Clash-for-Windows.md)
+  * [在 Clash Verge 上配置](Windows/Clash-for-Windows.md)
 
 * macOS
 
