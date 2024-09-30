@@ -7,7 +7,8 @@ Flclash 是在 Android 平台上的第三方开源代理客户端软件，支持
 
 以下是各平台该应用的下载地址。
 
-- Android：[Flclash](/FlClash-0.8.57-android-arm64-v8a.apk)
+- Android：[Flclash](/FlClash-0.8.57-android-arm64-v8a.apk ':include :type=markdown')
+
 
 ## 获取订阅  
 进入首页  
