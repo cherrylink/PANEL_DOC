@@ -4,7 +4,8 @@ Shadowrocket 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shado
 
 目前 Shadowrocket 已经被 Apple 根据政府要求从中国大陆区的 App Store 移除，之前在中国大陆商店购买此软件的用户将不能获得更新或重新下载。
 
-!> 这是一个付费软件，你需要购买才能使用。
+!> 这是一个付费软件，你需要购买才能使用。 
+
 
 ## 应用下载
 
